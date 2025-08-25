@@ -1,15 +1,15 @@
-# 💫 Hi 👋, I'm Amalendu Dey
+#  Hi 👋, I'm Amalendu Dey
 **Aspiring Software Engineer | Java DSA | Web Developer
 
-Email Me 👉 ✉️ **deyamalendu3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **deyamalendu3@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-- 🔭 **I’m currently working on:** Bytefolio — an interactive personal portfolio website where I showcase my web projects, Java DSA progress, and a small blog section.
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Web projects
-- 🤔 **I’m looking for help with:**  responsive UI design.
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** He
+- **I’m currently working on:** Bytefolio — an interactive personal portfolio website where I showcase my web projects, Java DSA progress, and a small blog section.
+-  **I’m currently learning:** Enter your tech here
+- **I’m looking to collaborate on:** Web projects
+-  **I’m looking for help with:**  responsive UI design.
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** Enter your email here
+-  **Pronouns:** He
 - ⚡ **Fun fact:** I love exploring tech trends and debugging random code.
 
 
